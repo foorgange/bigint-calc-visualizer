@@ -1,0 +1,5 @@
+{
+  "name": "BigInt Calc Visualizer",
+  "description": "An interactive, step-by-step animation of C++ High Precision Addition and Subtraction algorithms.",
+  "requestFramePermissions": []
+}
